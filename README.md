@@ -6,7 +6,7 @@
 
 
 <p>
-  <strong> 🔹Cursando último período em Análise e Desenvolvimento de Sistemas pela Unicarioca</strong>
+  <strong> 🔹Graduado em Análise e Desenvolvimento de Sistemas pela Unicarioca</strong>
 </p>
 
 <p>
@@ -27,7 +27,7 @@
 <h3 align=center>About</h3> 
 
 <p>
-  <strong>🔹Currently in the final semester of Analysis and Development of Systems at Unicarioca</strong>
+  <strong>🔹Graduated in Analysis and Development of Systems at Unicarioca</strong>
 </p>
 
 <p>
